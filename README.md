@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venerageorgieva
 - 👀 I’m interested in design,art and creating beautiful websites. 
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on future projects.
+- 💞️ I’m looking forward to collaborating on future projects.
 
 
 <!---
