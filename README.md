@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venerageorgieva
 - 👀 I’m interested in design,art and creating beautiful websites. 
-- 🌱 I’m currently studying at SoftUni to aquire the profession - JS Web Developer.
+- 🌱 JS Web Developer (SoftUni graduate) 
 - 💞️ I’m looking forward to collaborating on future projects.
 
 
